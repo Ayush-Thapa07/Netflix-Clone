@@ -1,1 +1,1 @@
-Netflix Clone Project.
+Hey there, In this repository I'm sharing my project of Netflix Clone, where I created this using HTML and CSS with responsive design and layouts. User can interact with all the buttons and features and can access all the functionalities like real one.
